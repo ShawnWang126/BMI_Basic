@@ -5,4 +5,9 @@
     <string name="bmi_btn">計算BMI值</string>
     <string name="bmi_result">你的BMI值是</string>
     <string name="action_settings">Settings</string>
+    <!--Dialog-->
+    <string name="dialog_title">關於 Android BMI</string>
+    <string name="dialog_message">Android BMI Calculate</string>
+    <string name="dialog_button_confirm">確認</string>
+    <string name="dialog_button_cancel">取消</string>
 </resources>
