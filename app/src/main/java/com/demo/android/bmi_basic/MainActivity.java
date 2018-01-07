@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity{
     private TextView result;
     private TextView fieldsuggest;
 
+    //Test Commit //Test Commit //Test Commit //Test Commit //Test Commit
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,7 +30,7 @@ public class MainActivity extends AppCompatActivity{
 //        button.setOnClickListener(listener);
     }
 
-    View.OnClickListener listener = new View.OnClickListener() {
+    View.OnClickListener listener = new View.OnClickListener(){
         @Override
         public void onClick(View v) {
 //            System.out.println("使用匿名的Listener");
